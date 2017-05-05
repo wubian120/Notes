@@ -55,3 +55,15 @@ Searching for remote catalog: http://repo1.maven.org/maven2/archetype-catalog.xm
 ```
 C:\Users\Brady\.m2
 ```
+
+## 查看 Java类字节码
+
+
++setting
+  +Tools
+    +External Tools
+
+Name 
+
+[Intellij idea快速查看Java类字节码](http://blog.csdn.net/qq_24489717/article/details/53837493)
+
